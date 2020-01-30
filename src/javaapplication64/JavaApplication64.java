@@ -14,6 +14,9 @@ public class JavaApplication64 {
     /**
      * @param args the command line arguments
      */
+     static void imprimir3(){
+        System.out.println("imprimir desarrollado");
+    }
     
     static void imprimir(){
         System.out.println("imprimir desarrollado");
@@ -22,6 +25,7 @@ public class JavaApplication64 {
         // TODO code application logic here
         
         imprimir();
+        imprimir3();
         
         
         
