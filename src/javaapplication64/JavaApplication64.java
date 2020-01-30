@@ -17,11 +17,19 @@ public class JavaApplication64 {
     
     static void imprimir(){
         System.out.println("imprimir desarrollado");
+        System.out.println("imprimir estaba incompleto");
+    }
+    
+    static void imprimir2(){
+        System.out.println("desarrollado por si acaso");
+       
     }
     public static void main(String[] args) {
         // TODO code application logic here
         
         imprimir();
+        imprimir2();
+                
         
         
         
