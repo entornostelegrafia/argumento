@@ -15,7 +15,7 @@ public class JavaApplication64 {
      * @param args the command line arguments
      */
      static void imprimir3(){
-        System.out.println("imprimir desarrollado");
+        System.out.println("imprimir 3 nuevo cambio");
     }
     
     static void imprimir(){
